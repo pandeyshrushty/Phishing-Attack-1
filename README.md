@@ -214,4 +214,6 @@ Phishing emails can be effectively detected using a combination of header analys
 * [VirusTotal](https://www.virustotal.com/)
 * [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
 
+* https://www.cyberyodha.org/2023/08/fact-check-scammers-impersonating.html
+
 
